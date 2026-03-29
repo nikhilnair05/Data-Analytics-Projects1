@@ -11,9 +11,22 @@
 - VS Code | Jupyter Notebooks
 
 ## 📁 Projects
-- Superstore Sales & Profit Analysis — Python EDA + Visual Dashboard
-- HR Attrition Analysis — Python EDA + Visual Dashboard
-- Process Improvement Dashboard — Coming Soon (Power BI)
+# Data Analytics Projects — Nikhil Nair
+
+Python • SQL • Power BI projects built during my analytics learning journey.
+
+### 1. Superstore Sales Analysis
+**Tools:** Python, MySQL, Power BI
+**Dataset:** 9,994 retail orders
+[View Project →](./Superstore-Sales-Analysis)
+
+### 2. HR Attrition Analysis
+**Tools:** Python, MySQL, Power BI  
+**Dataset:** 1,470 employees (IBM HR dataset)
+[View Project →](./HR-Attrition-Analysis)
+
+---
+📫 LinkedIn: linkedin.com/in/nikhil-nair-a1a1a9200
 
 ## 🎯 Currently Learning
 3-month structured Data Analytics roadmap
