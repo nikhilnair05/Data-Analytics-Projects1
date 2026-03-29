@@ -12,7 +12,7 @@
 
 ## 📁 Projects
 - Superstore Sales & Profit Analysis — Python EDA + Visual Dashboard
-- HR Attrition Analysis — Coming Soon
+- HR Attrition Analysis — Python EDA + Visual Dashboard
 - Process Improvement Dashboard — Coming Soon (Power BI)
 
 ## 🎯 Currently Learning
